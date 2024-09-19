@@ -1,1 +1,0 @@
-print("Aeeeeee saiu nosso primeiro código!")
